@@ -1,0 +1,1 @@
+hola = putStrLn "Hello world"
